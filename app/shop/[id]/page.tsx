@@ -65,7 +65,7 @@ const products: Product[] = [
       Material: "Zinc alloy",
       Color: "Black"
     },
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/xscbn.jpeg"
+    image: "/public/smart-lock-with-digital-interface-futuristic-design.jpg"
   },
   {
     id: "p3",
@@ -92,9 +92,8 @@ const products: Product[] = [
       "Charge Controller": "30A MPPT",
       Warranty: "25 years (panel), 5 years (electronics)"
     },
-    image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/2d9b0cd4-5e14-4bfd-a978-311cd3c56562.jpg-1mLmMMUHh89WHeh1NdaB8bJPnHf0DR.jpeg"
+    image: "/public/solarpanelkit.jpg"
   },
-  // ... (include ALL other products maintaining the exact same structure)
   {
     id: "p12",
     name: "Smart Home Hub",
